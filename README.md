@@ -2,10 +2,10 @@
 ### Data Structure and Algorithms ! C++
 
 
-## Day 1
-   >What is Data Structures
-   >Time & Space complexity
-   >Linear & Binary Search
+### Day 1
+    >What is Data Structures
+    >Time & Space complexity
+    >Linear & Binary Search
 
 
 Day 2
