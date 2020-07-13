@@ -1,5 +1,5 @@
 # DS
-### Data Structure and Algorithms ! C++
+### Data Structure and Algorithms ! C++ and JAVA,Python3 
 
 
 ### Day 1
@@ -8,31 +8,31 @@
     >Linear & Binary Search
 
 
-Day 2
+### Day 2
 
 >Linear Search >Binary Search >Selection Sort >Bubble Sort >Insertion Sort >Binary Search (recursive) 
 
 
-Day 3
+### Day 3
 
 >Insertion Sort 
 
  
-Day 4
+### Day 4
 
 >Recursion
 >Binary Search
 >Quick Sort
 
 
-Day 5
+### Day 5
 
 > Recursion
 > Binary Search
 > Quick Sort
 
 
-Day 6
+### Day 6
 
 >Linear queue
 >Circular queue 
@@ -41,7 +41,7 @@ Day 6
 >Manual conversion from infix to prefix/postfix
 
 
-Day 7
+### Day 7
 
 >Infix to Postfix/Prefix 
 >Postfix/Prefix eval
@@ -49,14 +49,14 @@ Day 7
 >Postfix to infix.
 
 
-Day 8
+### Day 8
 
 >parentheses balance
 >stack using queue
 >singly list: display,add first, add last, add at position.
 
 
-Day 9
+### Day 9
 
 >Singly list del first
      -del at pos,
@@ -65,7 +65,7 @@ Day 9
 >stack using list, queue using list.
 
 
-Day 10
+### Day 10
 
 > queue using list,
 >private inheritance,
@@ -73,16 +73,16 @@ Day 10
 >singly circular list.
 
 
-Day 11
+### Day 11
 
 > Doubly Linear Queue & it's optimizations.
 
-Day 12
+### Day 12
 
 >Linked List interview questions
 >STL basics.
 
-Day 13
+### Day 13
 
 >STL list, set, 
 >map, 
@@ -93,7 +93,7 @@ Day 13
 	- linear/quadratic probing.
 
 
-Day 14
+### Day 14
 
 >STL map, 
 >Hash-table chaining, 
@@ -101,7 +101,7 @@ Day 14
 >Tree concepts, 
 >BST create node.
 
-Day 15
+### Day 15
 
 > BST recursive
 	- add node,
@@ -111,7 +111,7 @@ Day 15
 >Non recursive preorder.
 
 
-Day 16
+### Day 16
 
 >BST Non recursive inorder, 
 >postorder, 
@@ -121,7 +121,7 @@ Day 16
 >balancing concept.
 
 
-Day 17
+### Day 17
 
 >BST Balancing, 
 	-Left & Right rotation, 
@@ -134,7 +134,7 @@ Day 17
 	- Heap Sort.
 
 
-Day 18
+### Day 18
 
 >B & B+ Tree, 
 >Graph theory, 
@@ -142,7 +142,7 @@ Day 18
 >BFS & DFS traversal.
 
 
-Day 19
+### Day 19
 
 > Graph implementation  
 	-Adjacency list  
@@ -155,14 +155,14 @@ Day 19
 >Prim􏰀s algorithm 
 
 
-Day 20
+### Day 20
 
 >Prim's algo,
 >Dijkstra's Algo, 
 >Union Find Algo
 
 
-Day 21
+### Day 21
 
 > Union Find Algo,
 > Kruskal Algo, 
@@ -170,37 +170,11 @@ Day 21
 >Bellman Ford
 
 
-Day 22
+### Day 22
 
 >Bellman Ford, 
 >Warshall Floyd, 
 >Johnson Algorithm
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
