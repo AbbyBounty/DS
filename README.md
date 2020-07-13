@@ -9,13 +9,11 @@
 
 
 ### Day 2
-
->Linear Search >Binary Search >Selection Sort >Bubble Sort >Insertion Sort >Binary Search (recursive) 
+	>Linear Search >Binary Search >Selection Sort >Bubble Sort >Insertion Sort >Binary Search (recursive) 
 
 
 ### Day 3
-
->Insertion Sort 
+	>Insertion Sort 
 
  
 ### Day 4
