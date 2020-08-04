@@ -64,6 +64,13 @@
 
 ### Day 12
 	>Linked List interview questions
+	>singly linear list→ reverse the list 
+	>Singly linear list → display reverse → O(n^2)
+	>singly linear list → display reverser-> O(n)
+	>singly linear lists reverse display ->using recursion
+	>singly linear lists->find mid 
+	>singly linear list ->find mid using recursion
+	>singly linear list-> reverse recursion 
 	>STL basics.
 
 ### Day 13
