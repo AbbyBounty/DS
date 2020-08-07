@@ -91,10 +91,15 @@
 
 ### Day 15
 	> BST recursive
-		- add node,
-		-search, 
-		-traversing, 
-		-height. 
+	 BST – add node (non-recursive) ✓
+	• BST – Binary Search (non-recursive)✓
+	• BST – add node (recursive) ✓
+	• BST – Binary Search (recursive) ✓
+	• BST – Pre-order traversal (recursive) ✓
+	• BST – In-order traversal (recursive) ✓
+	• BST – Post-order traversal (recursive) ✓
+	• BST – Delete All (recursive) ✓
+	• BST – Height (recursive) ✓ 
 	>Non recursive preorder.
 
 ### Day 16
